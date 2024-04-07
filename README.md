@@ -1,2 +1,3 @@
-# Pi-hole-block-site-comunist
- Bloquear todo conteudo lixo de esuerda na rede da empresa ou em casa
+# Pi-hole-block-website
+ Criando listas de bloqueio de web sites para usar no Pi-hole
+ Bloquear sites de publicidade, jogos, e outras porcarias da internet
